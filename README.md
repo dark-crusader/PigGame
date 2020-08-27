@@ -5,5 +5,5 @@ Play here:
 
 https://dark-crusader.github.io/PigGame/.
 
-Get 6 get out.
+Get 1 lose chance.
 First player with 10 points who holds wins.
